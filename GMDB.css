@@ -1,3 +1,17 @@
 .nav-link {
     color:white;
 }
+
+.button {
+    color:gold;
+    background-color: black;
+    border-color: gold;
+    margin-top: 5%;
+}
+
+.input1 {
+    background-color: white;
+    margin-top: 2%;
+    border-color: black;
+}
+
